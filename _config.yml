@@ -12,7 +12,7 @@ title                    : "Changhao's Academic Profile"
 title_separator          : "-"
 name                     : &name "Changhao Tian"
 description              : &description "personal description"
-url                      : https://CHTianpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chtiansweet.github.io/CHTian/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
