@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Materials Science, School of Materials Science and Engineering, Nanyang Technological University, Singapore, 2021-2025 (expected)
+* B.S. in Physics, School of Physics, Nanjing University, China, 2017-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2024-10/2024: Guest Researcher
+  * Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich
+  * Special Perception of Gas: Topography-aware Gas Source Localization with Mobile Robot
+  * Supervisor: Achim J. Lilienthal
 
 * Fall 2015: Research Assistant
   * Github University
