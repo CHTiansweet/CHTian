@@ -14,7 +14,7 @@ Education
 * Ph.D in Materials Science, Nanyang Technological University, Singapore, 2021-2025 (expected)
   Supervisor: Prof Xiaodong Chen
 * B.S. in Physics, Nanjing University, China, 2017-2021
-  Supervisor: Prof Yi Cao
+* Supervisor: Prof Yi Cao
 
 Work experience
 ======
