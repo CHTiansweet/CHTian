@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science, Nanyang Technological University, Singapore, 2021-2025 (expected)
+* Ph.D in Materials Science, Nanyang Technological University, Singapore, 2021-2025 (expected)<br>
   Supervisor: Prof Xiaodong Chen
-* B.S. in Physics, Nanjing University, China, 2017-2021
-* Supervisor: Prof Yi Cao
+* B.S. in Physics, Nanjing University, China, 2017-2021<br>
+  Supervisor: Prof Yi Cao
 
 Work experience
 ======
