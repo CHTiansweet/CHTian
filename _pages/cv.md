@@ -11,34 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science, School of Materials Science and Engineering, Nanyang Technological University, Singapore, 2021-2025 (expected)
-* B.S. in Physics, School of Physics, Nanjing University, China, 2017-2021
+* Ph.D in Materials Science, Nanyang Technological University, Singapore, 2021-2025 (expected)
+  Supervisor: Prof Xiaodong Chen
+* B.S. in Physics, Nanjing University, China, 2017-2021
+  Supervisor: Prof Yi Cao
 
 Work experience
 ======
 * 07/2024-10/2024: Guest Researcher
   * Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich
-  * Special Perception of Gas: Topography-aware Gas Source Localization with Mobile Robot
-  * Supervisor: Achim J. Lilienthal
+  * Developed mobile robot and related sensor fusion model for gas special perception, achieved topography-aware gas source localization.
+  * Supervisor: Professor Achim J. Lilienthal
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2019-11/2019: Intern Research Assistant
+  * Department of Chemistry, Hongkong University
+  * Developed computer vision program for tracking and analyzing the behavior of JANUS particles, especially under the influence of electric fields.
+  * Supervisor: Professor Yufeng Wang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2018-06/2021: Intern Research Assistant
+  * Insitute of Biophysics, Nanjing University
+  * Established a robust protein system and innovated a self-assembled ParMRC mechanism driven by ATP within the hydrogel, enhancing its capability for sustained and repeatable drug delivery.
+  * Supervisor: Professor Yi Cao
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -60,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
