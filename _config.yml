@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Singapore"
-title                    : "Changhao's Academic Profile"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Changhao Tian"
 description              : &description "personal description"
