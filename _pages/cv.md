@@ -34,7 +34,7 @@ Work experience
   * Supervisor: Professor Yi Cao
   
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
