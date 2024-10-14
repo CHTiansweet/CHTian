@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Based Topography Aware Gas Source Localization with Mobile Robot"
 collection: publications
-category: Preprint
+category: preprint
 permalink: /publication/Topography_aware_GSL
 excerpt: "Our paper about spatial gas perception. We utilized an U-net to predict gas leakage source based on environmental spatial context. It's the first work presenting gas source localization in complex indoor environment"
 # date: 2009-10-01
