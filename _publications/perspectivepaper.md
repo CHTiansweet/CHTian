@@ -1,6 +1,7 @@
 ---
 title: "Towards Universal E-nose: Powering Chemical Sensing with Multimodal Sensing and Artificial Intelligence"
 collection: publications
+priority: 2
 category: preprint
 permalink: /publication/2enose
 excerpt: "Our perspective paper! We discussed the future development of chemical sensors. Aiming at the final goal: universal e-nose, we discussed the technological path and potential opportunities."
