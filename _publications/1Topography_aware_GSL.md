@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 priority: 1
 permalink: /publication/Topography_aware_GSL
-excerpt: "Our paper about spatial gas perception. We utilized an U-net to predict gas leakage source based on environmental spatial context. It's the first work presenting gas source localization in complex indoor environment"
+excerpt: "Our paper about spatial gas perception. We utilized an U-net to predict gas leakage source based on environmental spatial context. It's the first work presenting gas source localization in complex indoor environment<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/spatialgasperc.png'>"
 # date: 2009-10-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
