@@ -7,29 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Changhao Tian, currently a final year phd student at Nanyang Technological University, Singapore, expecting to graduate by fall 2025. 
 
-A data-driven personal website
+I received my Bachelor's degree of physics from Nanjing University, China at 2021. After that, I come to Nanyang Technological University, Singapore to pursue phd degree. My phd program is funded by Singapore International Graduate Award(SINGA) and A*Star Merit Award(AMA), which is one of the highest honor scholarships for international candidates from Singapore government. 
+
+My research interest focus on **Multi-modal Machine Olfaction**, which ntegrates various sensor modalities to detect, localize, and assess gas concentrations in complex environments. You can find my latest cv [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf)
+
+(Last Updated at 18/10/2024)
+
+
+Multi-modal Machine Olfaction
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The con tent & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Mimicking human senses has long been a fundamental motivation behind sensor design, leading to advancements in technologies that replicate vision, hearing, touch, and taste. Each of these senses has been successfully translated into sophisticated sensors, but machine olfaction, which aims to replicate the sense of smell, remains one of the most challenging to develop and is often considered the "last puzzle" in this quest.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The complexity of detecting, interpreting, and classifying gas components in the environment mirrors the intricacies of the human olfactory system. Unlike vision or hearing, which have direct analogs in camera and microphone technologies, olfaction requires intricate chemical sensing and a nuanced interpretation of complex mixtures of gases.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In my research, I approach machine olfaction from two key perspectives: gas mixture component identification and spatial gas perception.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Gas mixture component identification is a central challenge in machine olfaction. Real-world environments often contain complex mixtures of gases with varying concentrations. My work focuses on developing advanced algorithms that can identify components in these mixtures, using data from multi-modal sensors. By leveraging chemical sensors that detect specific volatile compounds and integrating data from environmental and optical sensors, I aim to build models that can accurately identify each component of a gas mixture, even in noisy environments. This capability is crucial for applications in hazardous gas detection, where accurately identifying harmful gases within a mixture can prevent potential dangers in industrial settings.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
+Spatial gas perception involves understanding the distribution of gas concentrations across a physical space. In this part of my research, I focus on creating models that can map gas distributions in real-world, using input from sensors that capture wind patterns, temperature gradients, and obstacle interference. The goal is to localize the source of gas leaks and track the spread of gases through complex environments. I aim to develop systems that can predict how gas will diffuse over time and how it interacts with environmental factors.
 
