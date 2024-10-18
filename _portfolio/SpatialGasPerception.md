@@ -1,6 +1,6 @@
 ---
 title: "Spatial Gas Perception of Mobile Robot"
-excerpt: "Capturing Complex Dispersion Behavior of Gas in Real-world<br/><img src='spatialgasperc.png'>"
+excerpt: "Capturing Complex Dispersion Behavior of Gas in Real-world<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/spatialgasperc.png'>"
 collection: portfolio
 ---
 
