@@ -9,9 +9,9 @@ redirect_from:
 
 My name is Changhao Tian, currently a final year phd student at Nanyang Technological University, Singapore, expecting to graduate by fall 2025. 
 
-I received my Bachelor's degree of physics from Nanjing University, China at 2021. After that, I come to Nanyang Technological University, Singapore to pursue phd degree. My phd program is funded by Singapore International Graduate Award(SINGA) and A*Star Merit Award(AMA), which is one of the highest honor scholarships for international candidates from Singapore government. 
+I received my Bachelor's degree of physics from Nanjing University, China at 2021. After that, I came to Nanyang Technological University, Singapore to pursue phd degree. My phd program is funded by Singapore International Graduate Award(SINGA) and A*Star Merit Award(AMA), which is one of the highest honor scholarships for international candidates from Singapore government. 
 
-My research interest focus on **Multi-modal Machine Olfaction**, which ntegrates various sensor modalities to detect, localize, and assess gas concentrations in complex environments. You can find my latest cv [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf)
+My research interests focus on **Multi-modal Machine Olfaction**, which integrates various sensor modalities to detect, localize, and assess gas concentrations in complex environments. You can find my latest cv [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf)
 
 (Last Updated at 18/10/2024)
 
