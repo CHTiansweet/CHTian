@@ -1,6 +1,6 @@
 ---
 title: "Self-adaptive Multi-parameter E-nose"
-excerpt: "Embodied-AI-controlled Gas Sensor Array for Complex Gas Sensing <br/><img src='https://github.com/CHTiansweet/CHTian/blob/master/images/deepvno.png'>"
+excerpt: "Embodied-AI-controlled Gas Sensor Array for Complex Gas Sensing <br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/deepvno.png'>"
 collection: portfolio
 ---
 
