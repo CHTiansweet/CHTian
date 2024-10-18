@@ -4,7 +4,7 @@ collection: publications
 priority: 2
 category: preprint
 permalink: /publication/2enose
-excerpt: "Our perspective paper! We discussed the future development of chemical sensors. Aiming at the final goal: universal e-nose, we discussed the technological path and potential opportunities.<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/AIS.png' style='width:150px;height:auto;'>"
+excerpt: "Our perspective paper! We discussed the future development of chemical sensors. Aiming at the final goal: universal e-nose, we discussed the technological path and potential opportunities.<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/AIS.png' style='width:200px;height:auto;'>"
 # date: 2009-10-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
