@@ -54,4 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Volunteer Reviewer of IEEE TryEngineering STEM Grant
+* Volunteer of The 12th Singapore International Chemistry Conference (SICC-12)
+* Volunteer of Angewandte Symposium
