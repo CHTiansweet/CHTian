@@ -1,12 +1,12 @@
 ---
 title: "Deep Learning Based Topography Aware Gas Source Localization with Mobile Robot"
 collection: publications
-category: preprint
+category: published
 priority: 1
 permalink: /publication/Topography_aware_GSL
 excerpt: "Our paper about spatial gas perception. We utilized an U-net to predict gas leakage source based on environmental spatial context. It's the first work presenting gas source localization in complex indoor environment<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/GSLabstract.png'>"
 # date: 2009-10-01
-# venue: 'Journal 1'
+ venue: '2025 IEEE International Conference on Robotics & Automation'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://github.com/CHTiansweet/CHTian/blob/master/files/GSL_preprint.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
