@@ -1,5 +1,5 @@
 ---
-title: "3D Gas Concentration Reconstruction from Ultra-sparse Observation with Physics-informed Neuron Network"
+title: "Gas Distribution Mapping from Sparse and Unbalanced Sensor Sampling"
 excerpt: "From Sparse Sensor Observation to Complete Concentration Distribution<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/PINN.png'>"
 collection: portfolio
 ---
