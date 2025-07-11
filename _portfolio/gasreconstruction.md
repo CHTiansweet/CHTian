@@ -1,6 +1,6 @@
 ---
 title: "Gas Distribution Mapping from Sparse and Unbalanced Sensor Sampling"
-excerpt: "From Sparse Sensor Observation to Complete Concentration Distribution<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/PINN.png'>"
+excerpt: "From Sparse Sensor Observation to Complete Concentration Distribution<br/><img src='https://raw.githubusercontent.com/CHTiansweet/CHTian/master/images/realworld.png'>"
 collection: portfolio
 ---
 
