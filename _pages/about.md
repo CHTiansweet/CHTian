@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Changhao Tian. I am currently a Research Fellow at TUMCREATE, Singapore, working under the *Proteins for Singapore* project. My current research focuses on **decoding the mechanism of olfaction**, with a particular interest in understanding how chemical information is sensed, represented, and transformed into perceptual responses.
 
-I received my Bachelor's degree in Physics from Nanjing University, China, in 2021. After that, I moved to Singapore to pursue my PhD at Nanyang Technological University. My doctoral study was funded by the Singapore International Graduate Award (SINGA) and the A*STAR Merit Award (AMA), two highly competitive scholarships supporting international doctoral candidates in Singapore.
+I received my Bachelor's degree in Physics from Nanjing University, China, in 2021. After that, I moved to Singapore to pursue my PhD at Nanyang Technological University. My doctoral study was funded by the Singapore International Graduate Award (SINGA) and the A*STAR Merit Award (AMA).
 
 My broader research interests lie at the intersection of **machine olfaction, chemical sensing, artificial intelligence, and biological olfactory mechanisms**. I am particularly interested in developing computational and experimental approaches to link molecular structure, sensor responses, receptor activity, and odor perception. You can find my latest CV [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf).
 
