@@ -11,13 +11,19 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Nanyang Technological University, School of Material Science and Singapore Agency for Science, Technology and Research (A*STAR)**, Singapore, 2021-2025 (expected)<br>
-  Supervisor: Dr. Le Yang
+* **Ph.D in Nanyang Technological University, School of Material Science and Singapore Agency for Science, Technology and Research (A*STAR)**, Singapore, 2021-2026 <br>
+  Supervisor: Dr. Le Yang & Prof. Xiaodong Chen
 * **B.S. in Physics, Nanjing University**, China, 2017-2021<br>
   Supervisor: Prof Yi Cao
 
 Work experience
 ======
+* **06/2026-current: Research Fellow**
+  * TUM-CREATE Singapore
+  * AI for Olfaction.
+  * Supervisor: Professor Kelin Xia
+
+
 * **07/2024-10/2024: Guest Researcher**
   * Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich
   * Developed mobile robot and related sensor fusion model for gas special perception, achieved topography-aware gas source localization.
