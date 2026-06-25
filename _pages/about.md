@@ -1,30 +1,30 @@
 ---
+
 permalink: /
 title: "Changhao Tian's Academic Profile"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
-My name is Changhao Tian, currently a final year phd student at Nanyang Technological University, Singapore, expecting to graduate by fall 2025. 
+My name is Changhao Tian. I am currently a Research Fellow at TUMCREATE, Singapore, working under the *Proteins for Singapore* project. My current research focuses on **decoding the mechanism of olfaction**, with a particular interest in understanding how chemical information is sensed, represented, and transformed into perceptual responses.
 
-I received my Bachelor's degree of physics from Nanjing University, China at 2021. After that, I came to Nanyang Technological University, Singapore to pursue phd degree. My phd program is funded by Singapore International Graduate Award(SINGA) and A*Star Merit Award(AMA), which is one of the highest honor scholarships for international candidates from Singapore government. 
+I received my Bachelor's degree in Physics from Nanjing University, China, in 2021. After that, I moved to Singapore to pursue my PhD at Nanyang Technological University. My doctoral study was funded by the Singapore International Graduate Award (SINGA) and the A*STAR Merit Award (AMA), two highly competitive scholarships supporting international doctoral candidates in Singapore.
 
-My research interests focus on **Multi-modal Machine Olfaction**, which integrates various sensor modalities to detect, localize, and assess gas concentrations in complex environments. You can find my latest cv [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf)
+My broader research interests lie at the intersection of **machine olfaction, chemical sensing, artificial intelligence, and biological olfactory mechanisms**. I am particularly interested in developing computational and experimental approaches to link molecular structure, sensor responses, receptor activity, and odor perception. You can find my latest CV [here](https://github.com/CHTiansweet/CHTian/blob/master/files/CV%20changhao%20Tian_Updated.pdf).
 
-(Last Updated at 18/10/2024)
+(Last Updated: 25/06/2026)
 
+# Decoding the Mechanism of Olfaction
 
-Multi-modal Machine Olfaction
-======
-Mimicking human senses has long been a fundamental motivation behind sensor design, leading to advancements in technologies that replicate vision, hearing, touch, and taste. Each of these senses has been successfully translated into sophisticated sensors, but machine olfaction, which aims to replicate the sense of smell, remains one of the most challenging to develop and is often considered the "last puzzle" in this quest.
+Olfaction is one of the most complex and least understood sensory systems. While vision and hearing have been successfully translated into mature sensing technologies, smell remains challenging because odor perception arises from complicated interactions among volatile molecules, olfactory receptors, neural representations, and perceptual interpretation.
 
-The complexity of detecting, interpreting, and classifying gas components in the environment mirrors the intricacies of the human olfactory system. Unlike vision or hearing, which have direct analogs in camera and microphone technologies, olfaction requires intricate chemical sensing and a nuanced interpretation of complex mixtures of gases.
+My current research aims to understand how chemical information is encoded and decoded in olfaction. In particular, I am interested in how molecular structures and physicochemical properties are transformed into receptor-level responses, and how these biological signals are further organized into perceptual dimensions such as odor quality, similarity, and intensity.
 
-In my research, I approach machine olfaction from two key perspectives: gas mixture component identification and spatial gas perception.
+From the computational perspective, I work on building models that connect molecular representations, olfactory receptor responses, and perceptual labels. These models can help reveal structure-function relationships in olfaction and provide a basis for predicting how molecules or molecular mixtures may be perceived. This direction is closely related to recent advances in artificial intelligence, representation learning, and bio-inspired sensing.
 
-Gas mixture component identification is a central challenge in machine olfaction. Real-world environments often contain complex mixtures of gases with varying concentrations. My work focuses on developing advanced algorithms that can identify components in these mixtures, using data from multi-modal sensors. By leveraging chemical sensors that detect specific volatile compounds and integrating data from environmental and optical sensors, I aim to build models that can accurately identify each component of a gas mixture, even in noisy environments. This capability is crucial for applications in hazardous gas detection, where accurately identifying harmful gases within a mixture can prevent potential dangers in industrial settings.
-
-Spatial gas perception involves understanding the distribution of gas concentrations across a physical space. In this part of my research, I focus on creating models that can map gas distributions in real-world, using input from sensors that capture wind patterns, temperature gradients, and obstacle interference. The goal is to localize the source of gas leaks and track the spread of gases through complex environments. I aim to develop systems that can predict how gas will diffuse over time and how it interacts with environmental factors.
+From the sensing perspective, my previous work on machine olfaction provides an engineering foundation for studying smell. I have worked on multi-modal gas sensing, gas mixture identification, and spatial gas perception, with the goal of enabling artificial systems to detect, localize, and interpret chemical signals in complex environments. These experiences motivate my current interest in bridging artificial olfactory systems with biological olfactory mechanisms.
 
