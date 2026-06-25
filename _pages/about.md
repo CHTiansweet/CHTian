@@ -1,14 +1,11 @@
+--- permalink: / 
+title: "Changhao Tian's Academic Profile" 
+author_profile: true 
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-permalink: /
-title: "Changhao Tian's Academic Profile"
-author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
----
 
 My name is Changhao Tian. I am currently a Research Fellow at TUMCREATE, Singapore, working under the *Proteins for Singapore* project. My current research focuses on **decoding the mechanism of olfaction**, with a particular interest in understanding how chemical information is sensed, represented, and transformed into perceptual responses.
 
